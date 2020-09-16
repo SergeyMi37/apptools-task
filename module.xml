@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Export generator="Cache" version="25">
+  <Document name="apptools-task.ZPM">
+    <Module>
+      <Name>apptools-task</Name>
+      <Version>1.0.12</Version>
+      <Packaging>module</Packaging>
+	  <SourcesRoot>src</SourcesRoot>
+		<Resource Name="apptools.Task.PKG"/>
+    </Module>
+  </Document>
+</Export>
