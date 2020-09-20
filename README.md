@@ -2,8 +2,7 @@
 ## apptools-task
 [![Gitter](https://img.shields.io/badge/Available%20on-Intersystems%20Open%20Exchange-00b2a9.svg)](https://openexchange.intersystems.com/package/apptools-task-1)
 
-An example of a backup tasks.
-Every time I needed something particular for a project, it wasn’t there in “out-of-the-box” jobs. In one project, I had to automate the control over the number of backup copies with an option of automatic purging of the oldest ones. In another project, I had to estimate the size of the future backup file. In the end, I had to write my own backup task.
+An example of a backup task with preliminary deletion of old files.
 
 ## Installation with ZPM
 
