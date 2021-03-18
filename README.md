@@ -1,6 +1,10 @@
 ![](https://github.com/SergeyMi37/apptools-task/blob/master/doc/hammer-blue.png)
 ## apptools-task
-[![Gitter](https://img.shields.io/badge/Available%20on-Intersystems%20Open%20Exchange-00b2a9.svg)](https://openexchange.intersystems.com/package/apptools-task-1)
+[![Gitter](https://img.shields.io/badge/Available%20on-Intersystems%20Open%20Exchange-00b2a9.svg)](https://openexchange.intersystems.com/package/apptools-task)
+[![GitHub all releases](https://img.shields.io/badge/Available%20on-GitHub-black)](https://github.com/SergeyMi37/apptools-task)
+[![Habr](https://img.shields.io/badge/Available%20article-on%20Intersystems%20Community-orange)](https://community.intersystems.com/post/recommendations-installing-intersystems-cach%C3%A9-dbms-production-environment)
+[![Habr](https://img.shields.io/badge/Есть%20статья%20на-Хабре-blue)](https://habr.com/ru/company/intersystems/blog/342476/)
+[![license](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 An example of a backup task with preliminary deletion of old files.
 
