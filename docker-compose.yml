@@ -4,11 +4,12 @@ services:
     build: 
       context: .
       dockerfile: Dockerfile
+    command: --check-caps false
     restart: always
     ports: 
-      - 51663:51773
+      - 51663:1972
       - 52663:52773
       - 53773
     volumes:
-      - ~/iris.key:/usr/irissys/mgr/iris.key
+ #     - ~/iris.key:/usr/irissys/mgr/iris.key
       - ./:/irisdev/app
